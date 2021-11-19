@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------------------------------
+Short description:
+
+Advanced C++ (Blueprint Exposed) solution made for procedural creation of visual recoil.
+------------------------------------------------------------------------------------------------------
+Long description:
+
+Please, read the description carefully before purchasing the product!
+
+
+Procedural Recoil Animation is a plugin, which makes 
+------------------------------------------------------------------------------------------------------
+Technical details:
+
+ Features
+ - Pure C++ for ultimate efficiency
+ - Procedural visual recoil
+ - Variety and smoothness in animations
+ - Animation customization using curves
+ - Frame rate independence
+ - Multiplayer support
+
+ Code Modules:
+ RecoilAnimation, Runtime
+
+Number of Blueprints: 1
+Number of C++ Classes: 4
+Network Replicated : Yes
+Supported Development Platforms: Win64, Win32
+Supported Target Build Platforms: Win64, Win32
+------------------------------------------------------------------------------------------------------
+Official web page: https://github.com/guip97/ProceduralRecoilAnimationSystem
+Documentation: https://github.com/guip97/ProceduralRecoilAnimationSystem/wiki
+Public roadmap: https://github.com/guip97/ProceduralRecoilAnimationSystem/projects/1
+------------------------------------------------------------------------------------------------------
+Tags
+
+------------------------------------------------------------------------------------------------------
