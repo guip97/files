@@ -1,22 +1,31 @@
-------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+Product name:
+
+Procedural Recoil Animation System
+--------------------------------------------------------------------------------------------------------------------------------------
 Short description:
 
-Advanced C++ (Blueprint Exposed) solution made for procedural creation of visual recoil.
-------------------------------------------------------------------------------------------------------
+Advanced C++ (Blueprint Exposed) solution made for convenient creation of visual recoil for any kind of shooter.
+--------------------------------------------------------------------------------------------------------------------------------------
 Long description:
 
-Please, read the description carefully before purchasing the product!
+Please, read the description carefully before purchasing this product!
 
+C++ knowledge is not mandatory. However, it's strongly reccomended to have at least basic understanding of Blueprints to work with the plugin. Also, the asset doesn't provide shooter mechanics (e.g. aiming, different fire modes etc.) - it's only about animation.
 
-Procedural Recoil Animation is a plugin, which makes 
-------------------------------------------------------------------------------------------------------
+PRAS is a plugin, which makes firearms animation much faster and easier. With the help of curve based solver, it's possible to achieve high-quality results, without using third party software. Code-driven approach makes it possible to save memory budget, modify animation on the fly and make animations look unique each shot.
+
+Don't want to create a lot of animation sequences? Then, PRAS is the right choice for you.
+
+--------------------------------------------------------------------------------------------------------------------------------------
 Technical details:
 
- Features
+ Features:
  - Pure C++ for ultimate efficiency
  - Procedural visual recoil
  - Variety and smoothness in animations
  - Animation customization using curves
+ - Smooth transitions between animations
  - Frame rate independence
  - Multiplayer support
 
@@ -26,13 +35,14 @@ Technical details:
 Number of Blueprints: 1
 Number of C++ Classes: 4
 Network Replicated : Yes
-Supported Development Platforms: Win64, Win32
-Supported Target Build Platforms: Win64, Win32
-------------------------------------------------------------------------------------------------------
+Supported Development Platforms: Win64
+Supported Target Build Platforms: Win64
+--------------------------------------------------------------------------------------------------------------------------------------
 Official web page: https://github.com/guip97/ProceduralRecoilAnimationSystem
 Documentation: https://github.com/guip97/ProceduralRecoilAnimationSystem/wiki
-Public roadmap: https://github.com/guip97/ProceduralRecoilAnimationSystem/projects/1
-------------------------------------------------------------------------------------------------------
+Public roadmap: https://github.com/guip97/ProceduralRecoilAnimationSystem/projects
+--------------------------------------------------------------------------------------------------------------------------------------
 Tags
 
-------------------------------------------------------------------------------------------------------
+PROCEDURAL; PROCEDURAL ANIMATION; VISUAL RECOIL; RECOIL ANIMATION; MULTIPLAYER READY; 
+--------------------------------------------------------------------------------------------------------------------------------------
